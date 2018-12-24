@@ -1,0 +1,37 @@
+Input:
+	btn 1, btn 2, btn 1 + 2
+	find the 2 btns
+	keep pressing the 2 btns
+
+Graphics
+	cores berrantes
+	
+Mechanics
+	tempo
+		demorar mais a carregar
+		carregar na altura certa
+
+Story
+
+Sound
+
+Idea:
+
+growing
+relativo
+
+apanha de um lado deixa do outro
+enviar linhas
+stack crescer
+peças diferentes?
+quando uma tecla é carregada as maquinas param, quando é a outra, as peças viram
+acelera consoante o tempo que esteve parado
+
+//
+background
+
+Peça
+Generator / Level
+Floor
+
+maquinas
